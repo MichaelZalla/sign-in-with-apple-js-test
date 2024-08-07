@@ -3,7 +3,8 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "clean": "rm -rf .next out"
   },
   "dependencies": {
     "next": "latest",
