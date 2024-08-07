@@ -1,5 +1,10 @@
 {
   "private": true,
+  "name": "sign-in-with-apple-js-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelZalla/sign-in-with-apple-js-test.git"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
